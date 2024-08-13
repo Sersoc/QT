@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/QuickTest">C:/Users/mysky/Desktop/QT/QuickTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QuickTest</file>
+
+  </qresource>
+</RCC>
