@@ -1,0 +1,14 @@
+-rootPath
+/Users/leejaeik/Desktop/QTStudy/QT/StackView
+-cmake-output
+-output-file
+/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appStackView_build.cmake
+-importPath
+/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug/StackView
+-importPath
+/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug
+-importPath
+/Users/leejaeik/Qt/6.7.2/macos/./qml
+-qrcFiles
+/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_StackView.qrc
+/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appStackView_raw_qml_0.qrc

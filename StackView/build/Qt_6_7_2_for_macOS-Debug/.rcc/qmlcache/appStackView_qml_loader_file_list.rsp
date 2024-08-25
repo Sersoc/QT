@@ -1,0 +1,6 @@
+--resource
+/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_StackView.qrc
+--resource
+/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appStackView_raw_qml_0.qrc
+/qt/qml/StackView/Main.qml
+/qt/qml/StackView/Stack2.qml

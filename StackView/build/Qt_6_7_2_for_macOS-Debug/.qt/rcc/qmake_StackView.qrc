@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/StackView">
+    <file alias="qmldir">/Users/leejaeik/Desktop/QTStudy/QT/StackView/build/Qt_6_7_2_for_macOS-Debug/StackView/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,11 @@
+--bare
+-I
+/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/build/Qt_6_7_2_for_macOS-Debug
+-I
+/Users/leejaeik/Qt/6.7.2/macos/./qml
+--resource
+/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_QuickTest.qrc
+--resource
+/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appQuickTest_raw_qml_0.qrc
+/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/Main.qml
+/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/ItemCode.qml

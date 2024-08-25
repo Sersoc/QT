@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/QuickTest/">
+    <file alias="Main.qml">/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/Main.qml</file>
+    <file alias="ItemCode.qml">/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/ItemCode.qml</file>
+  </qresource>
+</RCC>
+

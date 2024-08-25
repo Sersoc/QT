@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appQuickTest_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_QuickTest.cpp"
+  ".rcc/qmlcache/appQuickTest_ItemCode_qml.cpp"
+  ".rcc/qmlcache/appQuickTest_Main_qml.cpp"
+  ".rcc/qmlcache/appQuickTest_qmlcache_loader.cpp"
+  "CMakeFiles/appQuickTest_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appQuickTest_autogen.dir/ParseCache.txt"
+  "appQuickTest_autogen"
+  "CMakeFiles/appQuickTest.dir/appQuickTest_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/appQuickTest.dir/appQuickTest_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/appQuickTest.dir/appquicktest_qmltyperegistrations.cpp.o"
+  "CMakeFiles/appQuickTest.dir/appquicktest_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appQuickTest_raw_qml_0.cpp.o"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_appQuickTest_raw_qml_0.cpp.o.d"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_QuickTest.cpp.o"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qrc_qmake_QuickTest.cpp.o.d"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appQuickTest_ItemCode_qml.cpp.o"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appQuickTest_ItemCode_qml.cpp.o.d"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appQuickTest_Main_qml.cpp.o"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appQuickTest_Main_qml.cpp.o.d"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appQuickTest_qmlcache_loader.cpp.o"
+  "CMakeFiles/appQuickTest.dir/build/Qt_6_7_2_for_macOS-Debug/.rcc/qmlcache/appQuickTest_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/appQuickTest.dir/main.cpp.o"
+  "CMakeFiles/appQuickTest.dir/main.cpp.o.d"
+  "QuickTest/appQuickTest.qmltypes"
+  "appQuickTest.app/Contents/MacOS/appQuickTest"
+  "appQuickTest.pdb"
+  "appQuickTest_autogen/mocs_compilation.cpp"
+  "appQuickTest_autogen/timestamp"
+  "appquicktest_qmltyperegistrations.cpp"
+  "meta_types/appQuickTest_json_file_list.txt"
+  "meta_types/appQuickTest_json_file_list.txt.timestamp"
+  "meta_types/qt6appquicktest_debug_metatypes.json"
+  "meta_types/qt6appquicktest_debug_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appQuickTest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

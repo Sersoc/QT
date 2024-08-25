@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ddceb7d3db43385239ec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QuickTest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-38d4af0a918a0e8b9721.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-7dd3694859aa7549d8a2.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-63276f4f0124e5a184ae.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-4ac4f68dd8a69d5e45f9.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest-Debug-5105bcdb79927b64583c.json",
+					"name" : "appQuickTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_autogen-Debug-fc82f0821241e4fa3517.json",
+					"name" : "appQuickTest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_autogen_timestamp_deps-Debug-abe2877b141534599ae9.json",
+					"name" : "appQuickTest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_qmlimportscan-Debug-ac7a9b45840ec7756d0b.json",
+					"name" : "appQuickTest_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_qmllint-Debug-e779713b7b0edc175f69.json",
+					"name" : "appQuickTest_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_qmllint_json-Debug-9bde52480517fcbc50c7.json",
+					"name" : "appQuickTest_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_qmllint_module-Debug-6790807a9d60e5e6fa60.json",
+					"name" : "appQuickTest_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_qmltyperegistration-Debug-20a80335bbcecf27898e.json",
+					"name" : "appQuickTest_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQuickTest_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQuickTest_tooling-Debug-6a710c0b7711a111f159.json",
+					"name" : "appQuickTest_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/build/Qt_6_7_2_for_macOS-Debug",
+		"source" : "/Users/leejaeik/Desktop/QTStudy/QT/QuickTest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

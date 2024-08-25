@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QuickTest">
+    <file alias="qmldir">/Users/leejaeik/Desktop/QTStudy/QT/QuickTest/build/Qt_6_7_2_for_macOS-Debug/QuickTest/qmldir</file>
+  </qresource>
+</RCC>
+

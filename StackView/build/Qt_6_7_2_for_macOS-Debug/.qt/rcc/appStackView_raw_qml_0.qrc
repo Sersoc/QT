@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/StackView/">
+    <file alias="Main.qml">/Users/leejaeik/Desktop/QTStudy/QT/StackView/Main.qml</file>
+    <file alias="Stack2.qml">/Users/leejaeik/Desktop/QTStudy/QT/StackView/Stack2.qml</file>
+  </qresource>
+</RCC>
+

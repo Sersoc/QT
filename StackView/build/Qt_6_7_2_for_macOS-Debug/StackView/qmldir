@@ -1,0 +1,6 @@
+module StackView
+typeinfo appStackView.qmltypes
+prefer :/qt/qml/StackView/
+Main 1.0 Main.qml
+Stack2 1.0 Stack2.qml
+
