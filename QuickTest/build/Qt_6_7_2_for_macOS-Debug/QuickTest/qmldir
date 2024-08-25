@@ -1,6 +1,0 @@
-module QuickTest
-typeinfo appQuickTest.qmltypes
-prefer :/qt/qml/QuickTest/
-Main 1.0 Main.qml
-ItemCode 1.0 ItemCode.qml
-
